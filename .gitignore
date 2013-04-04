@@ -1,0 +1,10 @@
+.tags
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+.bundle/
+vendor/
+Gemfile.lock
+logs/*
+define.rb
