@@ -6,5 +6,5 @@ GTAGS
 .bundle/
 vendor/
 Gemfile.lock
-logs/*
+logs/app.log
 define.rb
