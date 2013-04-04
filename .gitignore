@@ -7,4 +7,4 @@ GTAGS
 vendor/
 Gemfile.lock
 logs/*
-define.rb
+#define.rb
