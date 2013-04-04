@@ -1,0 +1,12 @@
+# TODO
+* [] delta api
+** [x] API調査か
+** [x] とりあえず版
+** [x] has_more対応 -> batchでやる
+* [x] urlecho変換
+* [] twitter bootstrap
+* [x] ファイル分割
+* [] icon
+* [] スマホ対応
+* [] metatags
+* [] ogp
